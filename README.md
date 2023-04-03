@@ -75,7 +75,7 @@
  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-p5&layout=compact)](https://github.com/rahul-p5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulp5&layout=compact)](https://github.com/rahulp5/github-readme-stats)
 
 <br />
 <br />

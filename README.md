@@ -30,6 +30,9 @@
 <code><a href=""https://www.python.org/">
   <img align="left" alt="website" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </a></code>
+<code><a href=""https://www.qt.io/">
+  <img align="left" alt="website" width="21px" src="https://en.wikipedia.org/wiki/PyQt#/media/File:Python_and_Qt.svg" />
+</a></code>
 <code><a href="https://in.mathworks.com/">
   <img align="left" alt="website" width="21px" src="https://d1fxybj1z3sjx6.cloudfront.net/live/assets/images/icons/matlab-logo.png" />
 </a></code>
@@ -51,15 +54,13 @@
 <code><a href="www.github.com">
   <img align="left" alt="website" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
 </a></code>
-<code><a href="www.github.com">
-  <img align="left" alt="website" width="21px" src="https://image.shutterstock.com/image-vector/github-icon-apps-website-260nw-1835148283.jpg" />
-</a></code>
 -->
 
 
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://en.wikipedia.org/wiki/PyQt#/media/File:Python_and_Qt.svg"></code>
 <code><img height="20" src="https://d1fxybj1z3sjx6.cloudfront.net/live/assets/images/icons/matlab-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropython-logo.svg/200px-Micropython-logo.svg.png"></code>
 <code><img height="20" src="https://www.twice.com/wp-content/uploads/2020/01/STMicroelectronics_logo.svg-2.jpg"></code>
@@ -68,7 +69,6 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"></code>
-<code><img height="20" src="https://image.shutterstock.com/image-vector/github-icon-apps-website-260nw-1835148283.jpg"></code>
 
 <br />
 <br />

@@ -18,7 +18,7 @@
 
 
 ## I'm a Software Developer
-- 🔭 I’m currently working on a UDS(Unified Diagnostic Services)
+- 🔭 I’m currently working on UDS (Unified Diagnostic Services), XCP (Universal Measurement and Calibration Protocol), and OBD (On-Board Diagnostics)
 - 🌱 I’m currently learning Python and Matlab :blush:
 - ⚡ Fun fact: I love Programming and playing Chess
 
